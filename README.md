@@ -1,4 +1,4 @@
-# 🧠 Intelligent Virtual Assistant
+# 🧠 Advanced Virtual Assistant
 
 ## Overview
 This Python-based **Virtual Assistant** is designed to simplify daily tasks, entertain, and provide useful insights. With features like face recognition, music playback, system controls, and more, it acts as your personal productivity and entertainment companion.
