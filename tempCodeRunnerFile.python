@@ -1,0 +1,18 @@
+def transformSentence(sentence):
+    # n=len(sentence)
+    words=sentence.strip().split()
+    for i in words:
+        list1=i.split()
+        for j in list1:
+            if(j==1):
+                continue
+            elif list1[j]==list1[j-1]:
+                continue
+            elif list1[j-1]<list1[j]:
+                list1[j].upper()
+            elif list1[j-1]>list1[j]:
+                list1[j].lower()
+        i=''.join(list1)
+    sentence2=' '.join(words)
+    print(sentence2)
+transformSentence('coOL dog')
