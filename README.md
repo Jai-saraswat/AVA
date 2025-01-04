@@ -53,8 +53,8 @@ This Python-based **Virtual Assistant** is designed to simplify daily tasks, ent
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/virtual-assistant.git
-   cd virtual-assistant
+   git clone https://github.com/Jai-saraswat/AVA.git
+   cd AVA
    ```
 
 2. **Install dependencies**:
